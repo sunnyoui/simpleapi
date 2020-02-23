@@ -1,6 +1,7 @@
 # simpleapi
 This is a demo project for creating RESTful API's
 
+This will have to change 
 
 The REST API
 
@@ -125,7 +126,7 @@ var appRouter = function (app) {
      }
 
      res.status(200).send(users);
-    
+
    } else {
      res.status(400).send({ message: 'invalid number supplied' });
    }
@@ -164,7 +165,7 @@ While the second,
      }
 
      res.status(200).send(users);
-    
+
    } else {
      res.status(400).send({ message: 'invalid number supplied' });
    }
