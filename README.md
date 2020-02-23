@@ -5,7 +5,7 @@ asdfThis will have to change
 
 Hello The REST API
 
-A Representational State Transfer (REST) interface provides a set of operations that can be invoked by a remote client over a network, using the HTTP protocol.
+A Representational State Transfer (REST) interface provides a set of operations that can be invoked by a remote client over a network, usasdfing the HTTP protocol.
 
 Before we proceed, we must ensure we have the following installed in your computer.
 
