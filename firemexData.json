@@ -1,0 +1,12 @@
+[
+    {
+        "errorType": "AccessDenied",
+        "errorMessage": "User credentials are invalid."
+    },
+    {
+        "errorType": "AccessDenied",
+        "errorMessage": "User credentials are invalid."
+    }
+
+
+]
